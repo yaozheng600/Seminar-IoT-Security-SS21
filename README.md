@@ -14,3 +14,6 @@
                     3. Internet of Vehicles(e.g. Electric vehicles cloud and edge, EVCE)
                     4. and so on...
 Both of these two parts can be extensively studied and focused in more depth.
+
+## tentative skeleton structure        
+
