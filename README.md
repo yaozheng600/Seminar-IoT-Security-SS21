@@ -16,4 +16,4 @@
 Both of these two parts can be extensively studied and focused in more depth.
 
 ## tentative skeleton structure        
-
+![Structure]()
